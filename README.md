@@ -1,1 +1,1 @@
-# blog
+# blog app with Flask
